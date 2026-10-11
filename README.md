@@ -1,28 +1,26 @@
-# Hi, I'm Nik 👋
+# Hi, I’m Nik 👋
 
-## Media, live production & software
+### Media, live production & practical software
 
-I'm a media-focused builder from Germany working at the intersection of **broadcast workflows, IRL streaming, visual storytelling and software**.
+I build tools and workflows where **broadcast**, **IRL streaming**, **visual storytelling** and **automation** meet. My goal is simple: turn complicated production work into reliable, repeatable systems.
 
-I build practical tools for creators and production teams — from complete OBS setups to automation for modern media workflows.
+## What I’m building
 
-### What I'm working on
-
-- 🎬 **[ScenePack](https://scenepack.ptbrnetwork.com)** — complete, importable OBS productions with scenes, sources, media, plugins and layouts
+- 🎬 **[ScenePack](https://scenepack.ptbrnetwork.com)** — complete, importable OBS productions: scenes, sources, media, plugins and layouts — not just overlay files
 - 📡 IRL streaming and live-production workflows
 - 🏁 Motorsport photography and media projects
 - 🧠 Local AI automation, self-hosting and creator tools
-- 🛠️ OBS, FFmpeg, web apps and homelab systems
+- 🛠️ OBS, FFmpeg, Node.js, C++ and homelab systems
 
-### Current focus
+## Current focus
 
-`OBS` · `IRL Streaming` · `Broadcast` · `Media Automation` · `TypeScript` · `Node.js` · `C++` · `FFmpeg` · `Cloudflare` · `Self-hosting`
+`OBS` · `IRL streaming` · `Broadcast` · `Media automation` · `Node.js` · `C++` · `FFmpeg` · `Cloudflare` · `Self-hosting`
 
-### Selected work
+## Selected work
 
-- [ScenePack](https://scenepack.ptbrnetwork.com) — complete OBS productions, not just overlay templates
+- [ScenePack](https://scenepack.ptbrnetwork.com) — a community for complete OBS setups
 - [FilmCraft](https://github.com/nikpottbecker/filmcraft) — media and software work
 
-Some products and experiments stay private while they are being developed. Public pages and releases will be shared when they are ready.
+Some products and experiments stay private while they are being developed. That is intentional: public releases will be published when they are tested, documented and ready to use.
 
-> Building at the intersection of media, technology and real-world production.
+> Building useful media technology for real production environments.
