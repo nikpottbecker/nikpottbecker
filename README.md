@@ -1,47 +1,31 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Nik Pottbecker — Live video, broadcast and software" width="100%" />
-</p>
+# Nik Pottbecker
 
-<p align="center">
-  <strong>Filmmaker &nbsp;·&nbsp; Live Video Technician &nbsp;·&nbsp; Developer</strong><br>
-  <sub>Working at the intersection of media, technology and storytelling.</sub>
-</p>
+**Developer · Creative Technologist · Media Creator**  
+Based in North Rhine-Westphalia, Germany
 
-<p align="center">
-  <a href="https://nikpottbecker.de"><strong>Portfolio &amp; Website</strong></a>
-</p>
+I build software and explore technology across different fields — from **web applications and desktop tools** to **AI, automation, self-hosted infrastructure, interactive experiences and media technology**.
 
----
+What interests me most is the process of turning an idea into something useful: thinking through the product, building the system behind it and refining the details until it works in practice.
 
-### About
+## What I do
 
-I combine hands-on video production with software development and technical problem-solving. I'm particularly interested in the systems behind live broadcasts — from cameras and transmission to control rooms, automation and reliable delivery.
+- **Software & product development** — Web applications, user interfaces, APIs, desktop software and digital products.
+- **AI & automation** — AI-powered tools, local models, agents and integrations between services.
+- **Infrastructure & systems** — Linux, networking, self-hosting, cloud platforms and deployment.
+- **Interactive & experimental tech** — Games, simulation, prototyping and exploring new ideas.
+- **Media & creative technology** — Video production, streaming, broadcast systems and tools for creators.
 
-My approach is to make complex technology **practical, dependable and easy to use**.
+## Technologies
 
-### Areas of focus
+**Development:** TypeScript, JavaScript, React / Next.js, Node.js, Python, Rust  
+**Infrastructure:** Linux, Docker, Proxmox, Cloudflare  
+**Media & workflows:** OBS Studio, vMix, FFmpeg, SRT, NDI
 
-**01 &nbsp; Live production & broadcast**  
-Live video workflows, IRL streaming, production systems, contribution feeds and real-time transport.
+## Beyond software
 
-**02 &nbsp; Software & automation**  
-Tools and integrations that simplify repetitive work, connect systems and make production workflows more efficient.
-
-**03 &nbsp; Film & photography**  
-Visual storytelling, camera work and motorsport media — with a focus on both the creative and technical sides.
-
-### Tools & technologies
-
-`OBS Studio` &nbsp; `vMix` &nbsp; `SRT / NDI` &nbsp; `FFmpeg`  
-`TypeScript / Node.js` &nbsp; `Python` &nbsp; `Linux` &nbsp; `Proxmox` &nbsp; `Cloudflare`
-
-### Background
-
-I've gained practical insight into professional broadcast environments through placements at **RTL Deutschland** and **Studio Berlin**, alongside my work in video production and motorsport photography.
+I also work in filmmaking, photography and live-video production, including motorsport media. Practical experience in professional broadcast environments at **RTL Deutschland** and **Studio Berlin** has shaped how I approach both creative and technical challenges.
 
 ---
 
-<p align="center">
-  <strong>Good media technology should be reliable behind the scenes — and effortless to use in the moment.</strong><br>
-  <sub>Find out more or get in touch via <a href="https://nikpottbecker.de">nikpottbecker.de</a>.</sub>
-</p>
+**[Website & Portfolio](https://nikpottbecker.de)**
+
