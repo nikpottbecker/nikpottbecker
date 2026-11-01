@@ -1,31 +1,47 @@
-# Hi, I'm Nik 👋
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Nik Pottbecker — Live video, broadcast and software" width="100%" />
+</p>
 
-**Live video production · Broadcast technology · Software development**  
-Based in North Rhine-Westphalia, Germany.
+<p align="center">
+  <strong>Filmmaker &nbsp;·&nbsp; Live Video Technician &nbsp;·&nbsp; Developer</strong><br>
+  <sub>Working at the intersection of media, technology and storytelling.</sub>
+</p>
 
-I'm a filmmaker, photographer and live-video technician who also builds software. I work at the intersection of **live production, IRL streaming, media workflows and automation** — with a focus on practical tools that make complex setups easier to operate.
+<p align="center">
+  <a href="https://nikpottbecker.de"><strong>Portfolio &amp; Website</strong></a>
+</p>
 
-[Portfolio](https://nikpottbecker.de) · [ScenePack](https://scenepack.ptbrnetwork.com)
+---
 
-## Selected projects
+### About
 
-| Project | What it does |
-| --- | --- |
-| **[Newsroom Control](https://github.com/nikpottbecker/newsroom-control)** | An OBS Studio dock for clip playback, lower thirds, tickers and breaking-news graphics. **Public beta.** |
-| **[OpenVoice AI](https://github.com/nikpottbecker/openvoice-ai)** | A self-hosted AI communication platform, starting with a phone agent built around Asterisk and local speech tools. **Early alpha.** |
-| **[FilmCraft](https://github.com/nikpottbecker/filmcraft)** | Open-source video editing software built in Rust, developed by the ArtCraft team. |
-| **[XVC Launcher](https://github.com/nikpottbecker/xvc-launcher)** | A Tauri desktop launcher for Assetto Corsa events, content checks and joining race servers. |
-| **[ModForge](https://github.com/nikpottbecker/ModForge)** | A visual tool for creating and building Minecraft NeoForge mods. |
+I combine hands-on video production with software development and technical problem-solving. I'm particularly interested in the systems behind live broadcasts — from cameras and transmission to control rooms, automation and reliable delivery.
 
-**[ScenePack](https://scenepack.ptbrnetwork.com)** is another project I'm working on: a place for complete, importable OBS productions — including scenes, sources, media, plugins and layouts.
+My approach is to make complex technology **practical, dependable and easy to use**.
 
-## What I'm interested in
+### Areas of focus
 
-- **Live media:** OBS Studio, IRL streaming, broadcast workflows and video infrastructure
-- **Software:** Rust, TypeScript, Node.js, Python and FFmpeg
-- **Infrastructure:** self-hosting, Proxmox, Cloudflare and automation
-- **Storytelling:** filmmaking, photography and motorsport media
+**01 &nbsp; Live production & broadcast**  
+Live video workflows, IRL streaming, production systems, contribution feeds and real-time transport.
 
-Some projects are public experiments or early previews; others stay private while they're being tested and documented.
+**02 &nbsp; Software & automation**  
+Tools and integrations that simplify repetitive work, connect systems and make production workflows more efficient.
 
-> Building practical technology for real production workflows.
+**03 &nbsp; Film & photography**  
+Visual storytelling, camera work and motorsport media — with a focus on both the creative and technical sides.
+
+### Tools & technologies
+
+`OBS Studio` &nbsp; `vMix` &nbsp; `SRT / NDI` &nbsp; `FFmpeg`  
+`TypeScript / Node.js` &nbsp; `Python` &nbsp; `Linux` &nbsp; `Proxmox` &nbsp; `Cloudflare`
+
+### Background
+
+I've gained practical insight into professional broadcast environments through placements at **RTL Deutschland** and **Studio Berlin**, alongside my work in video production and motorsport photography.
+
+---
+
+<p align="center">
+  <strong>Good media technology should be reliable behind the scenes — and effortless to use in the moment.</strong><br>
+  <sub>Find out more or get in touch via <a href="https://nikpottbecker.de">nikpottbecker.de</a>.</sub>
+</p>
