@@ -1,26 +1,47 @@
-# Hi, I’m Nik 👋
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Nik Pottbecker — Live video, broadcast and software" width="100%" />
+</p>
 
-### Media, live production & practical software
+<p align="center">
+  <strong>Filmmaker &nbsp;·&nbsp; Live Video Technician &nbsp;·&nbsp; Developer</strong><br>
+  <sub>Working at the intersection of media, technology and storytelling.</sub>
+</p>
 
-I build tools and workflows where **broadcast**, **IRL streaming**, **visual storytelling** and **automation** meet. My goal is simple: turn complicated production work into reliable, repeatable systems.
+<p align="center">
+  <a href="https://nikpottbecker.de"><strong>Portfolio &amp; Website</strong></a>
+</p>
 
-## What I’m building
+---
 
-- 🎬 **[ScenePack](https://scenepack.ptbrnetwork.com)** — complete, importable OBS productions: scenes, sources, media, plugins and layouts — not just overlay files
-- 📡 IRL streaming and live-production workflows
-- 🏁 Motorsport photography and media projects
-- 🧠 Local AI automation, self-hosting and creator tools
-- 🛠️ OBS, FFmpeg, Node.js, C++ and homelab systems
+### About
 
-## Current focus
+I combine hands-on video production with software development and technical problem-solving. I'm particularly interested in the systems behind live broadcasts — from cameras and transmission to control rooms, automation and reliable delivery.
 
-`OBS` · `IRL streaming` · `Broadcast` · `Media automation` · `Node.js` · `C++` · `FFmpeg` · `Cloudflare` · `Self-hosting`
+My approach is to make complex technology **practical, dependable and easy to use**.
 
-## Selected work
+### Areas of focus
 
-- [ScenePack](https://scenepack.ptbrnetwork.com) — a community for complete OBS setups
-- [FilmCraft](https://github.com/nikpottbecker/filmcraft) — media and software work
+**01 &nbsp; Live production & broadcast**  
+Live video workflows, IRL streaming, production systems, contribution feeds and real-time transport.
 
-Some products and experiments stay private while they are being developed. That is intentional: public releases will be published when they are tested, documented and ready to use.
+**02 &nbsp; Software & automation**  
+Tools and integrations that simplify repetitive work, connect systems and make production workflows more efficient.
 
-> Building useful media technology for real production environments.
+**03 &nbsp; Film & photography**  
+Visual storytelling, camera work and motorsport media — with a focus on both the creative and technical sides.
+
+### Tools & technologies
+
+`OBS Studio` &nbsp; `vMix` &nbsp; `SRT / NDI` &nbsp; `FFmpeg`  
+`TypeScript / Node.js` &nbsp; `Python` &nbsp; `Linux` &nbsp; `Proxmox` &nbsp; `Cloudflare`
+
+### Background
+
+I've gained practical insight into professional broadcast environments through placements at **RTL Deutschland** and **Studio Berlin**, alongside my work in video production and motorsport photography.
+
+---
+
+<p align="center">
+  <strong>Good media technology should be reliable behind the scenes — and effortless to use in the moment.</strong><br>
+  <sub>Find out more or get in touch via <a href="https://nikpottbecker.de">nikpottbecker.de</a>.</sub>
+</p>
